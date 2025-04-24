@@ -1,1 +1,2 @@
 # Crime-trends-in-west-yorkshire-UK-
+In this project we have to make a report about trends and pattern of crimes recorded by the police in West Yorkshire over six months between April and September 2020. To find how did counts of the different types of crime change over the 6 month period ? Are the patterns as you would expect? highlight any unexpected or unusual features of the data. Is there anything to suggest that their data are incomplete, incorrect, etc
